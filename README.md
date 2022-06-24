@@ -1,16 +1,3 @@
-# musicplayerui
+# M U S I C P L A Y E R U I ♡ F L U T T E R
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I coded this with Flutter ♡ Check out my tutorial here: https://www.youtube.com/watch?v=mf2CoM7btfQ![1FE3EC15-9D29-4FF1-AE5B-232B3FFCE988](https://user-images.githubusercontent.com/29016489/175529651-9f705b66-11c7-43b4-b72e-47650e940b92.JPG)
